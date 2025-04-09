@@ -21,7 +21,7 @@ Ny=121;                %% number of points in the direction y
 R_major = 20e-6;
 r_minor = 0.6e-6;
 
-n_ring = 1.9761;
+n_ring = 1.9963;
 n_background = 1.444;
 neff_max=0.99*n_ring;    %% filter the solutions where the effective index is superior than
 neff_min=n_background;                     %% filter the solutions where the effective index is inferior than
