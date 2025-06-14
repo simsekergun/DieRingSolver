@@ -2,7 +2,7 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: 'https://github.com/simsekergun/DieRingSolver'
+title: 'Dielectric Ring Solver'
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
@@ -14,3 +14,14 @@ authors:
     name-particle: Ergun
     affiliation: UMBC
     orcid: 'https://orcid.org/0000-0001-9075-7071'
+identifiers:
+  - type: url
+    value: 'https://arxiv.org/abs/2503.17745'
+    description: Arxiv
+repository-code: 'https://github.com/simsekergun/DieRingSolver'
+abstract: >-
+  Finite-differences based numerical solver for
+  electromagnetic waves confined in dielectric rings
+license: MIT
+version: '1.0'
+date-released: '2025-06-13'
