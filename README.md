@@ -9,3 +9,5 @@ If you use this code, please cite:
 Simsek, E., Niang, A., Islam, R. et al. A mixed-field formulation for modeling dielectric ring resonators and its application in optical frequency comb generation. Sci Rep 15, 35098 (2025). https://doi.org/10.1038/s41598-025-18869-z
 
 <img src="./png_files/fig_modes_COMSOL_vs_Thiswork.png" width="800" alt="Mode profiles. Left: our results. Right: COMSOL results.">
+
+The ring’s outer radius, width, and height are 23 µm, 890 nm, and 670 nm, respectively. The ring is made from silicon nitride (Si3N4) and surrounded by silicon dioxide (SiO2).
