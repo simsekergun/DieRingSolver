@@ -1,5 +1,5 @@
 # Electromagnetic Wave Propagation in Dielectric Rings
-A finite-differences-based MATLAB solver to study wave propagation in dielectric rings.
+A finite-differences-based MATLAB solver to study wave propagation in dielectric rings. I provided its Python version as well, but it is slow! 
 
 <img src="./png_files/fig_ring_on_a_substrate.png" width="700" alt="Ring on Substrate">
 
